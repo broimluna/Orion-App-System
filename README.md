@@ -21,7 +21,8 @@ ROOT/<br>
 
 
 metadata.json:
-```{
+```
+{
     "title": "App Name",
     "width": 800,
     "height": 600,
