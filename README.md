@@ -20,8 +20,8 @@ ROOT/<br>
 <br>
 
 
-metadata.json:
-```{
+metadata.json:```
+{
     "title": "App Name",
     "width": 800,
     "height": 600,
@@ -29,3 +29,4 @@ metadata.json:
     "icon": "filename.png"
 
 }
+```
