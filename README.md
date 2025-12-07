@@ -9,11 +9,11 @@ Make sure to have JSZip and jQuery loaded.
 
 structure of a .ori file:
 
-ROOT/
-metadata.json
-filename.jpg/jpeg/png
-ROOT/foldername/
-YOUR APP HERE
+ROOT/<br>
+metadata.json<br>
+filename.jpg/jpeg/png<br>
+ROOT/foldername/<br>
+YOUR APP HERE<br>
 
 
 
