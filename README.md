@@ -9,15 +9,15 @@ Make sure to have JSZip and jQuery loaded.
 
 structure of a .ori file:
 
-ROOT/
-├── metadata.json
-├── icon.png               <-- The icon referenced in metadata.json
-└── app/                   <-- A folder for your application files (Recommended)
-    ├── index.html         <-- The main entry file ("run" path)
-    ├── style.css
-    └── script.js
+ROOT/<br>
+├── metadata.json<br>
+├── icon.png               <-- The icon referenced in metadata.json<br>
+└── app/                   <-- A folder for your application files (Recommended)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── index.html         <-- The main entry file ("run" path)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    ├── style.css<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   └── script.js<br>
 
-
+<br>
 
 
 metadata.json:
