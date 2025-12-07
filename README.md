@@ -28,4 +28,4 @@ metadata.json:
     "run": "foldername/filename.html",
     "icon": "filename.png"
 
-}```
+}
