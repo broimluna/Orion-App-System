@@ -232,10 +232,10 @@ function createAppWindow(metadata, content, autoOpen = true) {
     newApp.css({ width: width, height: height });
 
     // Append to desktop
-    $('desktop').append(newApp);
+    $('YOURTAG/ID/CLASS').append(newApp);
 
-    setupWindow(newApp[0]);
-    setupTaskbar(newApp[0]); 
+    //setupWindow(newApp[0]); <-- replace this with a function that setups the window (draggable, title, buttons, etc...)
+    //setupTaskbar(newApp[0]); <-- replace this with a function that setups the taskbar panel (icon, taskbar icon toggle)
     
 
     newApp.resizable({
@@ -259,4 +259,5 @@ function createAppWindow(metadata, content, autoOpen = true) {
     }
 
     return newApp;
+
 }
