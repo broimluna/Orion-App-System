@@ -137,7 +137,7 @@ function getMimeType(filename) {
 }
 
 // --- IndexedDB Helper ---
-const DB_NAME = "DB Name";
+const DB_NAME = "Nightmoon_Disk";
 const STORE_NAME = "installed_apps";
 const DB_VERSION = 1;
 
